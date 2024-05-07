@@ -34,13 +34,3 @@ The output of the program will be formatted with proper indentation for readabil
 ```xml
 <apply><csymbol encoding="OpenMath"><msub><mi>P</mi><mn>1</mn></msub></csymbol><ci>x</ci></apply>
 
-### Output
-<apply>
-  <csymbol>
-    <msub>
-      <mi>P</mi>
-      <mn>1</mn>
-    </msub>
-  </csymbol>
-  <ci>x</ci>
-</apply>
